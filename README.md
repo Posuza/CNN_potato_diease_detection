@@ -77,29 +77,29 @@ model = create_model()
 train_model(model, X_train, y_train, X_val, y_val, epochs=50)
 ```
 
-Dataset
-The dataset contains images of potato leaves with various diseases, including:
+### Dataset
+ 1. The dataset contains images of potato leaves with various diseases, including:
 
-Early Blight
-Late Blight
-Healthy leaves
+    - Early Blight
+    - Late Blight
+    - Healthy leaves
 The dataset is already included in the project and will be available after extracting the provided zip file.
 
-Model Architecture
-The CNN architecture used in this project consists of:
+### Model Architecture
+  - The CNN architecture used in this project consists of:
 
-Multiple convolutional layers with ReLU activation
-MaxPooling layers for downsampling
-Dropout layers to prevent overfitting
-Dense layers for classification
-Softmax output layer for multi-class classification
-Results
-The model achieves an accuracy of approximately X% on the test dataset, making it reliable for real-world applications.
+    - Multiple convolutional layers with ReLU activation
+    - MaxPooling layers for downsampling
+    - Dropout layers to prevent overfitting
+    - Dense layers for classification
+    - Softmax output layer for multi-class classification
+    - Results
+### The model achieves an accuracy of approximately X% on the test dataset, making it reliable for real-world applications.
 
-Future Improvements
-Mobile application integration
-Real-time detection using camera feed
-Expansion to other crop diseases
-Deployment as a web service
-License
-[Include license information here]
+  - Future Improvements
+  - Mobile application integration
+  - Real-time detection using camera feed
+  - Expansion to other crop diseases
+  - Deployment as a web service
+
+
