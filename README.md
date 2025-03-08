@@ -25,9 +25,8 @@
     git clone https://github.com/Posuza/potato-leaf-disease-detection.git
     cd potato-leaf-disease-detection
   ```
-or
-
-  .dowload project zip folder 
+  or
+    .dowload project zip folder 
 
   
 2. Extract the provided zip file to access all project elements:
