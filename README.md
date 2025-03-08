@@ -25,6 +25,10 @@
     git clone https://github.com/Posuza/potato-leaf-disease-detection.git
     cd potato-leaf-disease-detection
   ```
+or
+
+  .dowload project zip folder 
+
   
 2. Extract the provided zip file to access all project elements:
 
@@ -101,5 +105,11 @@ The dataset is already included in the project and will be available after extra
   - Real-time detection using camera feed
   - Expansion to other crop diseases
   - Deployment as a web service
+  - 
+## Contact
+   - posu0009@gmail.com
 
+## Acknowledgments
+  - Thanks to all contributors who have helped shape this project
+  - Special thanks to the Python community for excellent libraries and tools
 
